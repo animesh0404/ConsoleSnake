@@ -1,7 +1,7 @@
 # ConsoleSnake
 ##=========================================
 
-A simple snake game written in Turbo C.
+# A simple snake game written in Turbo C.
 
 # Note:
 ## As Turbo C/C++ is a very old compiler it produces a 16-bit executable, which you would not be able to run on 64-bit windows thus,
