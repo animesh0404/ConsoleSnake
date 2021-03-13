@@ -4,6 +4,7 @@
  A simple snake game.
 
  -Uses Conio.h for the Dos version
+ 
  -Uses Ncurses for the Linux version
 
 # To compile the linux version you'll need to install ncurses library.
